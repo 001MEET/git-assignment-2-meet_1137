@@ -1,2 +1,6 @@
 Hello Git Assignment 2
+<<<<<<< HEAD
 Hello Rise2026
+=======
+Hello Rise2026 
+>>>>>>> 29d2debf7090a2ab061f3ca996ca3d47b2d72a56
