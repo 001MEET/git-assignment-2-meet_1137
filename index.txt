@@ -1,1 +1,2 @@
 Hello Git Assignment 2
+Hello Rise2026
